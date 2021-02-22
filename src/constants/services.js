@@ -6,24 +6,24 @@ import { FaFeatherAlt } from "react-icons/fa"
 
 export default [
   {
-    icon: <FaLifeRing />,
-    title: "Suporte em TI",
+    icon: <FaDraftingCompass />,
+    title: "Design",
     text: "We carry out architectural, structural and executive design works",
   },
   {
     icon: <FaLaptopCode />,
-    title: "Marketing Digital",
+    title: "Restoration",
     text:
       "We carry out restoration works, or conservative restoration of the property",
   },
   {
-    icon: <FaTools />,
-    title: "Manutenção de PC's",
+    icon: <FaHardHat />,
+    title: "Restructuring",
     text: "We carry out demolition and structural reconstruction interventions",
   },
   {
     icon: <FaFeatherAlt />,
-    title: "Design",
+    title: "Restyling",
     text: "We carry out renovations of interior design: Furniture and finishes",
   },
 ]
