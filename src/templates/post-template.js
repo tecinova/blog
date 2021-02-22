@@ -22,7 +22,7 @@ const BlogTemplate = ({ data }) => {
         <StyledHero img={image.fluid} className="post-image" />
         <div className="post-container">
           <Link to="/blog" className="btn-primary">
-            All the articles
+            Todos os artigos
           </Link>
           <div className="content-container">
             <h1 className="content-title">{title}</h1>
