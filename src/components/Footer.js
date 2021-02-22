@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
       <div className="copyright"></div>
       <div className="created">
-        By <a href={linkProfilo}>TECiNOVA</a>
+        Créditos: <a href={linkProfilo}>Emanuele Buccelli</a>
       </div>
       <div id="wcb" class="wcb carbonbadge wcb-d"></div>
     </FooterWrapper>
