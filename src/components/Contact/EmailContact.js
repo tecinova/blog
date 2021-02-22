@@ -9,7 +9,7 @@ const EmailContact = () => {
       <Title title="ENTRE EM CONTATO" subtitle="AGORA" />
       <ContactFormWrapper action="https://formspree.io/..." method="POST">
         <div>
-          <label htmlFor="name">nam</label>
+          <label htmlFor="name">Nome</label>
           <input
             type="text"
             name="name"
@@ -19,7 +19,7 @@ const EmailContact = () => {
           />
         </div>
         <div>
-          <label htmlFor="email">email</label>
+          <label htmlFor="email">E-mail</label>
           <input
             type="email"
             name="email"
@@ -29,7 +29,7 @@ const EmailContact = () => {
           />
         </div>
         <div>
-          <label htmlFor="message">Message</label>
+          <label htmlFor="message">Mensagem</label>
           <textarea
             name="message"
             id="message"
