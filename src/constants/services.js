@@ -8,7 +8,7 @@ export default [
   {
     icon: <FaDraftingCompass />,
     title: "Design",
-    text: "We carry out architectural, structural and executive design works",
+    text: "Descrição",
   },
   {
     icon: <FaLaptopCode />,
