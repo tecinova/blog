@@ -7,7 +7,7 @@ import styled from "styled-components"
 const Services = () => {
   return (
     <ServicesContainer>
-      <Title title="Study of architecture" subtitle="and Engineering" />
+      <Title title="Nossos Serviços" subtitle="" />
       <hr className="services_separator" />
       <ServicesWrapper>
         {services.map((item, index) => (
