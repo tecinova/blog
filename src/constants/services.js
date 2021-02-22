@@ -8,25 +8,13 @@ export default [
   {
     icon: <FaDraftingCompass />,
     title: "Design",
-    text: "
-    • Pacotes de imagens para mídias sociais;
-    • Cartões de visita e digitais interativos;
-    • Desenvolvimento de logotipos.",
+    text: "• Pacotes de imagens para mídias sociais;• Cartões de visita e digitais interativos;• Desenvolvimento de logotipos.",
   },
   {
     icon: <FaLaptopCode />,
     title: "Marketing Digital",
     text:
-      "
-    • Digitalização de negócios e pessoas;
-    • E-mails personalizados;
-    • Ecommerce (comércio eletrônico);
-    • Customização de ferramentas de gestão empresarial;
-    • Soluções em nuvem;
-    • Treinamentos e serviços pela web;
-    • Estratégias para mídias sociais;
-    • Eventos online e lives;
-    • Divulgação para vendas online.",
+      "• Digitalização de negócios e pessoas;• E-mails personalizados;• Ecommerce (comércio eletrônico);• Customização de ferramentas de gestão empresarial;• Soluções em nuvem;• Treinamentos e serviços pela web;• Estratégias para mídias sociais;• Eventos online e lives;• Divulgação para vendas online.",
   },
   {
     icon: <FaHardHat />,
