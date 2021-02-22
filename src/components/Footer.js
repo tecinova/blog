@@ -19,8 +19,7 @@ const Footer = () => {
         })}
       </div>
       <div className="copyright">
-        copyright &copy; TECiNOVA {new Date().getFullYear()} All rights
-        reserved
+        copyright &copy; TECiNOVA {new Date().getFullYear()} - Todos os direitos reservados.
       </div>
       <div className="copyright"></div>
       <div className="created">
