@@ -17,7 +17,7 @@ export default [
       "We carry out restoration works, or conservative restoration of the property",
   },
   {
-    icon: <FaHardHat />,
+    icon: <FaTools />,
     title: "Manutenção de PC's",
     text: "We carry out demolition and structural reconstruction interventions",
   },
