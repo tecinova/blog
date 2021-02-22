@@ -12,7 +12,7 @@ require("dotenv").config({
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: "Serviços em TI",
+    title: "TECiNOVA",
     description: "",
     author: "TECiNOVA",
     twitterUsername: "@NoticiasComOFF",
