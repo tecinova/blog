@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
       <div className="copyright"></div>
       <div className="created">
-        Créditos: <a href={linkProfilo}>@EmanueleBuccelli</a>
+        <a href={linkProfilo}></a>
       </div>
       <div id="wcb" class="wcb carbonbadge wcb-d"></div>
     </FooterWrapper>
