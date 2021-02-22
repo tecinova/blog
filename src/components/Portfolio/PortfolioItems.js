@@ -9,7 +9,7 @@ const PortfolioItems = () => {
 
   return (
     <section>
-      <Title title="OU VEJA NOSSA" subtitle="LISTA" />
+      <Title title="OU VEJA A" subtitle="LISTA" />
       <PortfolioList items={itemNodes} />
     </section>
   )
