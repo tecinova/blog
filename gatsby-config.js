@@ -12,12 +12,12 @@ require("dotenv").config({
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: "Gatsby starter for Contenful",
-    description: "Gatsby+Contentful for a website with a blog and a portfolio",
-    author: "Emanuele Buccelli",
-    twitterUsername: "@escapemanuele",
+    title: "Serviços em TI",
+    description: "",
+    author: "TECiNOVA",
+    twitterUsername: "@NoticiasComOFF",
     image: "/index-hero.webp",
-    siteUrl: "https://gatsby-contentful-portfolio-blog.netlify.app/",
+    siteUrl: "https://tecinovaservicos.com.br/",
   },
   plugins: [
     // "gatsby-plugin-webpack-bundle-analyser-v2",
