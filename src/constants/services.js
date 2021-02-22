@@ -8,22 +8,34 @@ export default [
   {
     icon: <FaDraftingCompass />,
     title: "Design",
-    text: "Descrição",
+    text: "    • 
+    • Pacotes de imagens para mídias sociais;
+    • Cartões de visita e digitais interativos;
+    • Desenvolvimento de logotipos.",
   },
   {
     icon: <FaLaptopCode />,
-    title: "Restoration",
+    title: "Marketing Digital",
     text:
-      "We carry out restoration works, or conservative restoration of the property",
+      "
+    • Digitalização de negócios e pessoas;
+    • E-mails personalizados;
+    • Ecommerce (comércio eletrônico);
+    • Customização de ferramentas de gestão empresarial;
+    • Soluções em nuvem;
+    • Treinamentos e serviços pela web;
+    • Estratégias para mídias sociais;
+    • Eventos online e lives;
+    • Divulgação para vendas online.",
   },
   {
     icon: <FaHardHat />,
-    title: "Restructuring",
-    text: "We carry out demolition and structural reconstruction interventions",
+    title: "Software",
+    text: "Suporte e treinamento in loco ou in company a usuários de computador quanto a sistemas, aplicativos e ferramentas corporativas e residenciais.",
   },
   {
     icon: <FaFeatherAlt />,
-    title: "Restyling",
-    text: "We carry out renovations of interior design: Furniture and finishes",
+    title: "Hardware",
+    text: "Diagnóstico, manutenção e montagem de PC’s mediante proposta comercial.",
   },
 ]
