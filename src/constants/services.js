@@ -6,8 +6,8 @@ import { FaFeatherAlt } from "react-icons/fa"
 
 export default [
   {
-    icon: <FaDraftingCompass />,
-    title: "Design",
+    icon: <FaLifeRing />,
+    title: "Suporte em TI",
     text: "We carry out architectural, structural and executive design works",
   },
   {
