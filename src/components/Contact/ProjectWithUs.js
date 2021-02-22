@@ -5,8 +5,8 @@ const ProjectWithUs = () => {
   return (
     <ProjectWrapper>
       <div className="project_info">
-        <h3>Quer iniciar um projeto conosco?</h3>
-        <p>Sinta-se à vontade para entrar em contato. Afinal, basta dois cliques!</p>
+        <h3>Inicie um projeto conosco!</h3>
+        <p>Sinta-se à vontade para escolher a forma de contato de sua preferência. Afinal, são apenas dois cliques :)</p>
       </div>
       <div className="project_phones">
         <a href="tel:+5573999384167">Celular</a>
