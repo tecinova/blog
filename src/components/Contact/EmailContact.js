@@ -6,7 +6,7 @@ import { emailStrings } from "./ContactStrings"
 const EmailContact = () => {
   return (
     <section>
-      <Title title="ENTRE EM CONTATO CONOSCO" subtitle="AGORA" />
+      <Title title="ENTRE EM CONTATO" subtitle="AGORA" />
       <ContactFormWrapper action="https://formspree.io/..." method="POST">
         <div>
           <label htmlFor="name">name</label>
