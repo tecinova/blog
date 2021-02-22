@@ -12,18 +12,18 @@ export default [
   },
   {
     icon: <FaLaptopCode />,
-    title: "Restoration",
+    title: "Marketing Digital",
     text:
       "We carry out restoration works, or conservative restoration of the property",
   },
   {
     icon: <FaHardHat />,
-    title: "Restructuring",
+    title: "Manutenção de PC's",
     text: "We carry out demolition and structural reconstruction interventions",
   },
   {
     icon: <FaFeatherAlt />,
-    title: "Restyling",
+    title: "Design",
     text: "We carry out renovations of interior design: Furniture and finishes",
   },
 ]
