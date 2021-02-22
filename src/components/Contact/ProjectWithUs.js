@@ -5,12 +5,12 @@ const ProjectWithUs = () => {
   return (
     <ProjectWrapper>
       <div className="project_info">
-        <h3>Interested in starting a project with us?</h3>
-        <p>Feel free to call us</p>
+        <h3>Quer iniciar um projeto conosco?</h3>
+        <p>Sinta-se à vontade para entrar em contato. Afinal, basta dois cliques!</p>
       </div>
       <div className="project_phones">
-        <a href="tel:123456789">123456789</a>
-        <a href="tel:336123456789">336123456789</a>
+        <a href="tel:+5573999384167">Celular</a>
+        <a href="https://api.whatsapp.com/send/?phone=5573999384167">WhatsApp</a>
       </div>
     </ProjectWrapper>
   )
