@@ -5,7 +5,7 @@ import styled from "styled-components"
 const MapContact = () => {
   return (
     <section>
-      <Title title="Atendimento remoto" subtitle="" />
+      <Title title="Atendemos remoto" subtitle="" />
       <MapWrapper>
         <iframe
           id="maps_frame"
