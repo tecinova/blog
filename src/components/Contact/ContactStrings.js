@@ -1,6 +1,6 @@
 export const emailStrings = {
-  namePlaceholder: "Your name",
-  emailPlaceholder: "Your email",
-  messagePlaceholder: "Your message",
-  submitText: "Submit",
+  namePlaceholder: "Digite aqui seu nome",
+  emailPlaceholder: "Digite aqui seu e-mail",
+  messagePlaceholder: "Digite aqui sua mensagem",
+  submitText: "Submi",
 }
