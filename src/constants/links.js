@@ -1,7 +1,7 @@
 export default [
   {
     path: "/",
-    text: "home",
+    text: "sobre",
   },
   {
     path: "/portfolio/",
@@ -17,6 +17,6 @@ export default [
   },
   {
     path: "/contact/",
-    text: "contacts",
+    text: "contato",
   },
 ]
