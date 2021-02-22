@@ -18,7 +18,7 @@ const PortoflioCategory = ({ data }) => {
           className="btn-primary"
           style={{ marginTop: "3rem" }}
         >
-          back
+         voltar
         </Link>
         <PortfolioList items={portfolioitem} />
       </CategoryWrapper>
