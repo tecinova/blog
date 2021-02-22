@@ -9,7 +9,7 @@ import ProjectWithUs from "../components/Contact/ProjectWithUs"
 const Index = ({ data }) => {
   return (
     <Layout>
-      <SEO title="TECiNOVA" description={data.site.siteMetadata.description} />
+      <SEO title="Serviços em TI" description={data.site.siteMetadata.description} />
       {/* <StyledHero home img={data.homeImage.childImageSharp.fluid}>
         <Banner title={data.site.siteMetadata.title} info="hero-title"></Banner>
       </StyledHero> */}
