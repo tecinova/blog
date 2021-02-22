@@ -8,7 +8,7 @@ export default [
   {
     icon: <FaDraftingCompass />,
     title: "Design",
-    text: "    • 
+    text: "
     • Pacotes de imagens para mídias sociais;
     • Cartões de visita e digitais interativos;
     • Desenvolvimento de logotipos.",
