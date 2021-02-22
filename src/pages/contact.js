@@ -11,7 +11,7 @@ import SEO from "../components/SEO"
 export default ({ data }) => {
   return (
     <Layout>
-      <SEO title="Contact2" description="Contact us to request a quote!" />
+      <SEO title="Contato" description="Contacte-nos para solicitar um orçamento!" />
       {/* <StyledHero img={data.contactImage.childImageSharp.fluid}>
         <Banner title="Contact us!" />
       </StyledHero> */}
