@@ -6,7 +6,7 @@ import { FooterWrapper } from "../css"
 
 const Footer = () => {
   const linkProfilo =
-    process.env.LINK_URL || "https://www.linkedin.com/in/ebuccelli/"
+    process.env.LINK_URL || "https://tecinovaservicos.com.br/"
   return (
     <FooterWrapper>
       <div className="links">
@@ -19,12 +19,12 @@ const Footer = () => {
         })}
       </div>
       <div className="copyright">
-        copyright &copy; XXXXXXXXXX {new Date().getFullYear()} All rights
+        copyright &copy; TECiNOVA {new Date().getFullYear()} All rights
         reserved
       </div>
-      <div className="copyright">Street N° XXXXX</div>
+      <div className="copyright"></div>
       <div className="created">
-        Created by <a href={linkProfilo}>Emanuele Buccelli</a>
+        By <a href={linkProfilo}>TECiNOVA</a>
       </div>
       <div id="wcb" class="wcb carbonbadge wcb-d"></div>
     </FooterWrapper>
