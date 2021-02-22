@@ -21,7 +21,7 @@ const BlogListTemplate = props => {
     <Layout>
       <SEO title="Blog" />
       <PageContainerWrapper>
-        <Title title="last" subtitle="articles" />
+        <Title title="las" subtitle="articles" />
         {!(isFirst && isLast) && (
           <section className="links">
             {!isFirst && (
