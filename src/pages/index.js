@@ -9,7 +9,7 @@ import ProjectWithUs from "../components/Contact/ProjectWithUs"
 const Index = ({ data }) => {
   return (
     <Layout>
-      <SEO title="Home" description={data.site.siteMetadata.description} />
+      <SEO title="Hom" description={data.site.siteMetadata.description} />
       {/* <StyledHero home img={data.homeImage.childImageSharp.fluid}>
         <Banner title={data.site.siteMetadata.title} info="hero-title"></Banner>
       </StyledHero> */}
