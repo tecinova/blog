@@ -5,7 +5,7 @@ import FaSquarespace from "react-icons/fa/FaSquarespace"
 export default [
   {
     icon: <FaFacebook />,
-    url: "https://twitter.com/?lang=en",
+    url: "https://www.facebook.com/robertoalvess2",
   },
   {
     icon: <FaTwitterSquare />,
