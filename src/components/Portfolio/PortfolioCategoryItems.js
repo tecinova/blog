@@ -8,7 +8,7 @@ const PortfolioCategoryItems = () => {
   const { portfolioCategories } = useStaticQuery(getPortfolioItemCategories)
   return (
     <>
-      <Title title="Escolha uma" subtitle="Categoria" />
+      <Title title="" subtitle="" />
       <PortfolioItemsWrapper data-cy="project-categories">
         {portfolioCategories.edges.map(({ node }) => {
           return <CategoryCard key={node.id} category={node} />
