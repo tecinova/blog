@@ -3,10 +3,11 @@ import { FaDraftingCompass } from "react-icons/fa"
 import { FaLaptopCode } from "react-icons/fa"
 import { FaHardHat } from "react-icons/fa"
 import { FaFeatherAlt } from "react-icons/fa"
+import { FaPhotoVideo } from "react-icons/fa"
 
 export default [
   {
-    icon: <FaDraftingCompass />,
+    icon: <FaPhotoVideo />,
     title: "Design",
     text: "Pacotes de imagens para mídias sociais,cartões de visita e digitais interativos,desenvolvimento de logotipos...",
   },
