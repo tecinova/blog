@@ -25,7 +25,7 @@ const Footer = () => {
       <div className="created">
         <a href={linkProfilo}></a>
       </div>
-      <div id="wcb" class="wcb carbonbadge wcb-d"></div>
+      <div id="" class=""></div>
     </FooterWrapper>
   )
 }
