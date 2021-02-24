@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  An portfolio built with Gatsby: https://gatsbyjs.org
+  portfolio built with Gatsby: https://gatsbyjs.org
 </h1>
 
 This is a simple project built for a local architect. It shows its portfolio and also has a blog.
