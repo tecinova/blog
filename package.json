@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-contentful-blog-portfolio",
-  "description": "Gatsby starter for a blog-portfolio served by Contentful",
-  "author": "escapemanuele",
+  "name": "gatsby",
+  "description": "Gatsby starter",
+  "author": "",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -90,6 +90,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/escapemanuele/gatsby-contentful-blog-portfolio"
+    "url": "https://github.com"
   }
 }
