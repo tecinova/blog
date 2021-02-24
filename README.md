@@ -16,7 +16,7 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 
 ![Lighthouse performance](./media/lighthouse100.gif)
 [![Carbon](./media/clean.jpg)](https://www.websitecarbon.com/)
-![Gatsby Starter Mate logo](./media/gatsby-starter-index.png)
+
 
 ## Features
 
