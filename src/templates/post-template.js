@@ -27,7 +27,7 @@ const BlogTemplate = ({ data }) => {
           <div className="content-container">
             <h1 className="content-title">{title}</h1>
             <h4 className="content-published">
-              Published: {DateText(published)}
+              Postado: {DateText(published)}
             </h4>
             <hr />
             <article className="post">
@@ -43,7 +43,7 @@ const BlogTemplate = ({ data }) => {
 function DateText(date) {
   const formattedTime = new Date(date)
   const formattedDate = formattedTime
-    .toLocaleDateString("en-US", {
+    .toLocaleDateString("pt-BR", {
       day: "numeric",
       month: "long",
       year: "numeric",
