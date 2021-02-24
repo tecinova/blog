@@ -9,7 +9,7 @@ const ProjectWithUs = () => {
         <p>São no máximo dois cliques para falar com um dos nossos especialistas :)</p>
       </div>
       <div className="project_phones">
-        <a href="https://roberto.tecinovaservicos.com.br/">Contato</a>
+        <a href="https://roberto.tecinovaservicos.com.br/">Tecnólogo</a>
         <a href="https://tecinovaservicos.com.br/portfolio/">Portfolio</a>
       </div>
     </ProjectWrapper>
