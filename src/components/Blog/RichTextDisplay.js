@@ -12,7 +12,7 @@ const RichTextDisplay = ({ json }) => {
             <img
               className="content-image"
               width="400"
-              src={node.data.target.fields.file["en-US"].url}
+              src={node.data.target.fields.file["pt-BR"].url}
               alt={""}
             />
             {/* <p>images provided by john doe</p> */}
@@ -23,13 +23,13 @@ const RichTextDisplay = ({ json }) => {
         const { title, image, text } = node.data.target.fields
         return (
           <div>
-            <h1>Related article: {title["en-US"]}</h1>
+            <h1>Related article: {title["pt-BR"]}</h1>
             <img
               width="400"
-              src={image["en-US"].fields.file["en-US"].url}
+              src={image["pt-BR"].fields.file["pt-BR"].url}
               alt={title}
             />
-            {documentToReactComponents(text["en-US"])}
+            {documentToReactComponents(text["pt-BR"])}
           </div>
         )
       },
