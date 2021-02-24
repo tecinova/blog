@@ -5,7 +5,7 @@ export default [
   },
   {
     path: "/portfolio/",
-    text: "portfolio",
+    text: "portfólio",
   },
   // {
   //   path: "/blog",
