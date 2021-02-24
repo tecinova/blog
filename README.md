@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  An architect portfolio built with Gatsby and Contentful: https://gatsby-contentful-portfolio-blog.netlify.com/
+  An architect portfolio built with Gatsby: https://gatsbyjs.org
 </h1>
 
 This is a simple project built for a local architect. It shows its portfolio and also has a blog.
@@ -37,7 +37,7 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 
     ```sh
     # clone the project using Git
-    git clone https://github.com/escapemanuele/gatsby-contentful-blog-portfolio  your-project-name
+    git clone https://github.com/ your-project-name
     ```
 
 2.  **Install the packages**
