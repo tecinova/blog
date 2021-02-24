@@ -812,7 +812,7 @@
           "pt-BR": "Ecommerce"
         },
         "image": {
-          "en-US": {
+          "pt-BR": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
@@ -821,10 +821,10 @@
           }
         },
         "slug": {
-          "en-US": "ecommerce"
+          "pt-BR": "ecommerce"
         },
         "description": {
-          "en-US": "I build stores for everything"
+          "pt-BR": "I build stores for everything"
         }
       }
     },
@@ -884,13 +884,13 @@
       },
       "fields": {
         "title": {
-          "en-US": "RoboCommerce"
+          "pt-BR": "RoboCommerce"
         },
         "description": {
-          "en-US": "An ecommerce where you can buy your dream robot"
+          "pt-BR": "An ecommerce where you can buy your dream robot"
         },
         "images": {
-          "en-US": [
+          "pt-BR": [
             {
               "sys": {
                 "type": "Link",
@@ -901,7 +901,7 @@
           ]
         },
         "slug": {
-          "en-US": "robocommerce"
+          "pt-BR": "robocommerce"
         },
         "category": {
           "pt-BR": {
@@ -970,13 +970,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "React"
+          "pt-BR": "React"
         },
         "description": {
-          "en-US": "Every article regarding React!"
+          "pt-BR": "Every article regarding React!"
         },
         "slug": {
-          "en-US": "react"
+          "pt-BR": "react"
         }
       }
     },
@@ -1036,10 +1036,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "React is pretty nice Sir"
+          "pt-BR": "React is pretty nice Sir"
         },
         "image": {
-          "en-US": {
+          "pt-BR": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
@@ -1116,10 +1116,10 @@
           }
         },
         "date": {
-          "en-US": "2020-02-14T00:00+01:00"
+          "pt-BR": "2020-02-14T00:00+01:00"
         },
         "slug": {
-          "en-US": "react-is-nice"
+          "pt-BR": "react-is-nice"
         },
         "category": {
           "pt-BR": {
@@ -1183,13 +1183,13 @@
       },
       "fields": {
         "title": {
-          "en-US": "E-Commerce"
+          "pt-BR": "E-Commerce"
         },
         "description": {
-          "en-US": "I build nice stores"
+          "pt-BR": "I build nice stores"
         },
         "file": {
-          "en-US": {
+          "pt-BR": {
             "url": "//images.ctfassets.net/pzlsnnzc6vdk/MH4bfaR4UtAmuytYN96T2/ef6ab1c081a9a254c774c527db97eeb1/ecommerce.jpg",
             "details": {
               "size": 1465371,
@@ -1253,10 +1253,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "Robot"
+          "pt-BR": "Robot"
         },
         "file": {
-          "en-US": {
+          "pt-BR": {
             "url": "//images.ctfassets.net/pzlsnnzc6vdk/Oo3YqLCPV2BfVYOElitEt/d790289ab2685c73ae0fce5eb93ba34b/Atlas_from_boston_dynamics.jpg",
             "details": {
               "size": 50391,
@@ -1320,10 +1320,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "React is nice"
+          "pt-BR": "React is nice"
         },
         "file": {
-          "en-US": {
+          "pt-BR": {
             "url": "//images.ctfassets.net/pzlsnnzc6vdk/4IkpwuELIousYyXgXHiQDn/e9c191b3e69991f17e6f87593bbe6c1b/react.jpg",
             "details": {
               "size": 33383,
