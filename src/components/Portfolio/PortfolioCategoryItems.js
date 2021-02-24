@@ -21,7 +21,7 @@ const PortfolioCategoryItems = () => {
 const getPortfolioItemCategories = graphql`
   {
     portfolioCategories: allContentfulPortfolioItemCategory(
-      filter: { node_locale: { eq: "en-US" } }
+      filter: { node_locale: { eq: "pt-BR" } }
     ) {
       edges {
         node {
