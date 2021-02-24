@@ -7,7 +7,7 @@ const EmailContact = () => {
   return (
     <section>
       <Title title="ENVIE-NOS SUA" subtitle="MENSAGEM" />
-      <ContactFormWrapper action="https://formspree.io/..." method="POST">
+      <ContactFormWrapper action="https://formspree.io/f/mqkgorro" method="POST">
         <div>
           <label htmlFor="name">Nome</label>
           <input
