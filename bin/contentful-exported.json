@@ -1341,8 +1341,8 @@
   ],
   "locales": [
     {
-      "name": "English (United States)",
-      "code": "en-US",
+      "name": "Português (Brasil)",
+      "code": "pt-BR",
       "fallbackCode": null,
       "default": true,
       "contentManagementApi": true,
