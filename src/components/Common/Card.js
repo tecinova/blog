@@ -30,7 +30,7 @@ const Card = ({ node }) => {
 function DateText(date) {
   const formattedTime = new Date(date)
   const formattedDate = formattedTime
-    .toLocaleDateString("en-US", {
+    .toLocaleDateString("pt-BR", {
       day: "numeric",
       month: "long",
       year: "numeric",
