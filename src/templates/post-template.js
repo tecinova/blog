@@ -27,7 +27,7 @@ const BlogTemplate = ({ data }) => {
           <div className="content-container">
             <h1 className="content-title">{title}</h1>
             <h4 className="content-published">
-              Postado: {DateText(published)}
+               {DateText(published)}
             </h4>
             <hr />
             <article className="post">
