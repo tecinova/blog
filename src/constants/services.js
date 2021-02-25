@@ -4,20 +4,20 @@ import { FaLaptopCode } from "react-icons/fa"
 import { FaHardHat } from "react-icons/fa"
 import { FaFeatherAlt } from "react-icons/fa"
 import { FaPhotoVideo } from "react-icons/fa"
-import { FaBullhorn } from "react-icons/fa"
+import { FaMobile } from "react-icons/fa"
 import { FaTools } from "react-icons/fa"
 
 export default [
   {
     icon: <FaPhotoVideo />,
     title: "Design",
-    text: "Pacotes de imagens para mídias sociais,cartões de visita e digitais interativos,desenvolvimento de logotipos...",
+    text: "Cardápio,cartão digital interativo,pacotes de imagens para mídias sociais,identidade corporativa da qual fazem parte dentre outras coisas,logotipo e cartões de visita...",
   },
   {
-    icon: <FaBullhorn />,
-    title: "Marketing Digital",
+    icon: <FaMobile />,
+    title: "Transformação Digital",
     text:
-      "Chatbot Digitalização de negócios e personalidades,e-mails personalizados,ecommerce (comércio eletrônico)divulgação para vendas online,treinamentos e serviços pela web,estratégias para mídias sociais,eventos online e lives,...",
+      "Planejamento para presença digital e inserção,digitalização de pequenos negócios,desenvolvimento de sistemas para web e mídias digitais de comunicação corporativa,planejamento e preparação para ecommerce,mídias sociais e anúncios*,chatbot e automatizações,home office,eventos online e lives...",
   },
   {
     icon: <FaLaptopCode />,
