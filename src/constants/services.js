@@ -11,7 +11,7 @@ export default [
   {
     icon: <FaPhotoVideo />,
     title: "Design",
-    text: "Cardápio,cartão digital interativo,pacotes de imagens para mídias sociais,identidade corporativa da qual fazem parte dentre outras coisas,logotipo e cartões de visita...",
+    text: "Cardápio,cartão digital interativo,pacotes de imagens e vídeos para mídias sociais,identidade corporativa da qual fazem parte dentre outras coisas,logotipo e cartões de visita...",
   },
   {
     icon: <FaMobile />,
