@@ -27,6 +27,6 @@ export default [
   {
     icon: <FaTabletAlt />,
     title: "Hardware",
-    text: "Diagnóstico, manutenção e montagem de PC’s mediante proposta comercial.",
+    text: "Diagnóstico, manutenção e montagem (mediante proposta comercial) de computadores e notebooks,caso necessário formatamos entretanto sem negligenciar seu backup/cópia de segurança. ",
   },
 ]
