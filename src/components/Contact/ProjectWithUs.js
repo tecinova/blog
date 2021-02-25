@@ -10,7 +10,7 @@ const ProjectWithUs = () => {
       </div>
       <div className="project_phones">
         <a href="https://roberto.tecinovaservicos.com.br/">Tecnólogo</a>
-        <a href="https://tecinovaservicos.com.br/portfolio/">Portfolio</a>
+        <a href="https://tecinovaservicos.com.br/portfolio/">Portfólio</a>
       </div>
     </ProjectWrapper>
   )
