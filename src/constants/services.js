@@ -5,7 +5,7 @@ import { FaHardHat } from "react-icons/fa"
 import { FaFeatherAlt } from "react-icons/fa"
 import { FaPhotoVideo } from "react-icons/fa"
 import { FaBullhorn } from "react-icons/fa"
-import { FaTabletAlt } from "react-icons/fa"
+import { FaTools } from "react-icons/fa"
 
 export default [
   {
@@ -25,7 +25,7 @@ export default [
     text: "Suporte e treinamento in loco ou in company a usuários de computador quanto a sistemas, aplicativos e ferramentas sejam corporativas e ou residenciais.",
   },
   {
-    icon: <FaTabletAlt />,
+    icon: <FaTools />,
     title: "Hardware",
     text: "Diagnóstico, manutenção e montagem (mediante proposta comercial) de computadores e notebooks,caso necessário formatamos entretanto sem negligenciar seu backup/cópia de segurança. ",
   },
