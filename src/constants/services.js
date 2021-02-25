@@ -22,7 +22,7 @@ export default [
   {
     icon: <FaLaptopCode />,
     title: "Software",
-    text: "Computação na nuvem,ferramentas e sistemas de gestão empresarial,suporte e treinamento in loco ou in company,soluções mobile e aplicativos...",
+    text: "Computação na nuvem,hospedagem,ferramentas e sistemas de gestão empresarial,suporte e treinamento in loco ou in company,soluções mobile e aplicativos...",
   },
   {
     icon: <FaTools />,
