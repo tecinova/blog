@@ -17,12 +17,12 @@ export default [
     icon: <FaBullhorn />,
     title: "Marketing Digital",
     text:
-      "Digitalização de negócios e personalidades,e-mails personalizados,ecommerce (comércio eletrônico),customização de ferramentas de gestão empresarial,soluções em nuvem,treinamentos e serviços pela web,estratégias para mídias sociais,eventos online e lives,divulgação para vendas online...",
+      "Chatbot Digitalização de negócios e personalidades,e-mails personalizados,ecommerce (comércio eletrônico)divulgação para vendas online,treinamentos e serviços pela web,estratégias para mídias sociais,eventos online e lives,...",
   },
   {
     icon: <FaLaptopCode />,
     title: "Software",
-    text: "Suporte e treinamento in loco ou in company a usuários de computador quanto a sistemas, aplicativos e ferramentas sejam corporativas e ou residenciais.",
+    text: "Computação na nuvem,ferramentas e sistemas de gestão empresarial,suporte e treinamento in loco ou in company,soluções mobile e aplicativos...",
   },
   {
     icon: <FaTools />,
