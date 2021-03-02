@@ -42,7 +42,7 @@ const PortfolioItemTemplate = ({ data }) => {
             className="btn-primary"
             style={{ marginTop: "3rem" }}
           >
-            + itens da categoria {slug}
+            categoria {slug}
           </Link>
         </div>
       </PortfolioItemWrapper>
