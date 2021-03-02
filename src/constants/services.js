@@ -27,6 +27,6 @@ export default [
   {
     icon: <FaTools />,
     title: "Hardware",
-    text: "Diagnóstico, manutenção e montagem (mediante proposta comercial) de computadores e notebooks,caso necessário formatamos entretanto sem negligenciar seu backup/cópia de segurança. ",
+    text: "Diagnóstico, manutenção e montagem (mediante proposta comercial) de computadores e notebooks,caso necessário formatamos entretanto sem negligenciar seu backup/cópia de segurança... ",
   },
 ]
