@@ -9,7 +9,7 @@ const PortfolioItems = () => {
 
   return (
     <section>
-      <Title title="alguns projetos" subtitle="☑️" />
+      <Title title="projetos" subtitle="☑️" />
       <PortfolioList items={itemNodes} />
     </section>
   )
