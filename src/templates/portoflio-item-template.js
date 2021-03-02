@@ -21,7 +21,6 @@ const PortfolioItemTemplate = ({ data }) => {
     <Layout>
       <SEO title={title} description={description} />
       <HeaderStructureWrapper>
-        <h1>{title}</h1>
         <ImageWrapper>
           <div className="img-container">
             <Image fluid={mainImage.fluid} alt={title} />
