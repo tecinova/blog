@@ -41,7 +41,7 @@ const PortfolioItemTemplate = ({ data }) => {
             className="btn-primary"
             style={{ marginTop: "3rem" }}
           >
-            categoria {slug}
+            + itens {slug}
           </Link>
         </div>
       </PortfolioItemWrapper>
