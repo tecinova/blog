@@ -16,7 +16,7 @@ const Card = ({ node }) => {
           to={`/${category.slug}/${slug}`}
           data-cy="portfolio-item"
         >
-          + informações
+          + info
         </Link>
         {date && <h6 className="date">{DateText(date)}</h6>}
       </div>
