@@ -52,7 +52,7 @@ const PortfolioItemTemplate = ({ data }) => {
 
 const HeaderStructureWrapper = styled.div`
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
   align-items: center;
   justify-items: center;
