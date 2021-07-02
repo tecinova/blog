@@ -6,7 +6,7 @@ const ProjectWithUs = () => {
     <ProjectWrapper>
       <div className="project_info">
         <h3>Inicie seu projeto conosco!</h3>
-        <p>São no máximo dois cliques para falar com um dos nossos especialistas :)</p>
+        <p>São no máximo dois cliques para visualizar nossas ofertas ou portfólio :)</p>
       </div>
       <div className="project_phones">
         <a href="https://ofertas.tecinovaservicos.com.br/">Ofertas</a>
